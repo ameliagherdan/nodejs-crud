@@ -1,2 +1,0 @@
-# nodejs-crud
-#### Practice Amelia
